@@ -189,15 +189,13 @@ If you like this project please you can read more about linters
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my patners who help me during this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
+if you want to ask me a question i m here for you , just send me the question to my email which is leader@gmail.com
 
 - **Why Build portfolio**
 
